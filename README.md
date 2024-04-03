@@ -8,13 +8,7 @@
 - **Military Status:** Exempt
 
 ## Objective
-A senior backend Laravel developer with 3+ years of hands-on experience designing, developing, and implementing applications, websites, and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a backend developer.
-
-## Education
-- **Salah Aldeen High School** (2014-2017)
-  - Excellent 99.6%
-- **Faculty of Petroleum and Mining Engineering, Suez University** (2017–2022)
-  - Very Good 83.45%
+A senior backend Laravel developer with 5 years of hands-on experience designing, developing, and implementing applications, websites, and solutions using a range of technologies and programming languages.
 
 ## Experience
 - **Senior Backend Laravel Developer at Ultimerce** (2022-Present)
@@ -71,4 +65,4 @@ A senior backend Laravel developer with 3+ years of hands-on experience designin
 - **Email:** [engmohammedahmed40@gmail.com](mailto:engmohammedahmed40@gmail.com)
 - **LinkedIn:** [Mohammed Ahmed](http://www.linkedin.com/in/mohammed-ahmed40)
 
-Feel free to reach out to me if you have any questions or if you're interested in collaborating!
+
