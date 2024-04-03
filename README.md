@@ -1,18 +1,10 @@
 # Mohammed Ahmed Mohammed
 
-- **Address:** Mashtoul, Asharqia
-- **Email Address:** [engmohammedahmed40@gmail.com](mailto:engmohammedahmed40@gmail.com)
-- **Phone Number:** (+20)1068695809
-- **Date of Birth:** 27 March 1999
-- **LinkedIn:** [Mohammed Ahmed](http://www.linkedin.com/in/mohammed-ahmed40)
-- **Military Status:** Exempt
-
-## Objective
-A senior backend Laravel developer with 5 years of hands-on experience designing, developing, and implementing applications, websites, and solutions using a range of technologies and programming languages.
+A senior backend Laravel developer with 5 years of hands-on experience designing, developing, and implementing applications, websites, and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a backend developer.
 
 ## Experience
-- **Senior Backend Laravel Developer at Ultimerce** (2022-Present)
-  - Ultimerce is a complete eCommerce platform that lets you start, grow, and manage your eCommerce. Ultimerce is an online stores generator platform that helps businesses build and manage their eCommerce websites interface and features with few clicks and without technical knowledge.
+- **Senior Backend Laravel Developer at Wazin** (2022-Present)
+  - Wazin is a complete eCommerce platform that lets you start, grow, and manage your eCommerce. Wazin is an online stores generator platform that helps businesses build and manage their eCommerce websites interface and features with few clicks and without technical knowledge.
 - **Freelancer Backend Laravel Developer** (2020-2022)
   - Building new websites, developing existing ones, adding new features, and fixing security issues.
 - **PHP Developer at Netmall** (2021-2022)
@@ -22,26 +14,39 @@ A senior backend Laravel developer with 5 years of hands-on experience designing
 
 ## Projects
 - **[Wazin](https://wazin.sa)**
-  - A platform that allows users to create their online store without writing a single line of code by implementing the multi-tenancy concept.
+  - A platform that allows users to create their online store without writing a single line of code by implementing multi-tenancy concept.
+- **[KbinSchool](https://kbinhschool.com)**
+  - A web system for managing a school in Qatar. The system allows school administrators to monitor both teachers and students, evaluate teacher performance, track visits, record attendance, and manage various related tasks.
+- **[Tawuniya](https://tawn-ops.com)**
+  - A web system for managing hospitals and employee shifts. An integrated web system aimed at facilitating hospital management and employee shifts, both morning and evening.
 - **[Pioneer](http://pioneer-center.com/)**
   - A web application that helps the teacher manage his students, classes, grades, payments, and many other features.
 - **VEIN MEDICAL SYSTEM**
-  - A system to register patients and their data, in addition to the sample drawn from each patient.
+  - The main objective of the system is to register patients and their data, in addition to the sample drawn from each patient.
 - **EMPLOYEE HOLIDAY SYSTEM**
-  - A system used to track the number of holidays for each employee in the company.
+  - This system is used to track the number of holidays for each employee in the company.
 - **E-NAQL**
-  - A VMS (Vehicle Management System) used to transfer shipments from one place to another.
+  - E-NAQL is a VMS (Vehicle Management System) used to transfer shipments from one place to another.
 - **PLTKSA**
-  - A tourism website for tours in Saudi Arabia. The site includes tourist sites and information about them and the price of each trip, in addition to payment.
+  - A Tourism website for tours in Saudi Arabia. The site includes tourist sites and information about them and the price of each trip, in addition to payment.
 
 ## Languages
 - **Arabic:** Native
 - **English:** Very good working proficiency
 
 ## Skills
-- **Front end:** HTML, CSS, Bootstrap, JavaScript, jQuery, Vue
-- **Back end:** PHP, MySQL, Laravel
+- **Front end:** HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, VUE
+- **Back end:** PHP, MYSQL, LARAVEL
 - **Experience in building SaaS (Software as a service) applications**
+- **Experience in GitHub (Pull, Push, Pull requests, GitHub actions, SSH keys)**
+- **Experience in shared and cloud hosting (deploying apps, configuring SSL, etc.) like:**
+  - Hostinger
+  - Godaddy
+  - Bluehost
+  - Namecheap
+  - Digitalocean
+  - Contabo
+  - Vultur
 - **Strong experience in Laravel packages:**
   - Spatie roles and permissions
   - Spatie media library
@@ -54,9 +59,11 @@ A senior backend Laravel developer with 5 years of hands-on experience designing
   - Laravel Modules
   - Laravel Dom PDF
   - Laravel Socialite
+  - Laravel Websockets (Real-time)
 - **API development:**
   - Integrating payments gateways like Hyperpay, Paytabs, Moyaser, Tap, and Tabby.
   - Integrating analytical and marketing tools like Google Merchant Center and Mailchimp API.
+  - Generating the API required for mobile Apps
 - **Very good with Microsoft Office software**
 - **Good communication Skills**
 - **Self-learning and teamwork**
@@ -64,5 +71,4 @@ A senior backend Laravel developer with 5 years of hands-on experience designing
 ## Contact Me
 - **Email:** [engmohammedahmed40@gmail.com](mailto:engmohammedahmed40@gmail.com)
 - **LinkedIn:** [Mohammed Ahmed](http://www.linkedin.com/in/mohammed-ahmed40)
-
 
