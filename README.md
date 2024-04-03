@@ -38,7 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EngMohammed40/EngMohammed40/output/snake.svg" alt="Snake animation" />
 
 ###
 
